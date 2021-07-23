@@ -1,0 +1,6 @@
+.cache/
+.idea/
+.DS_Store/
+node_modules/
+dist/
+작업명령어.txt
